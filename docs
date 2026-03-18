@@ -1,4 +1,4 @@
 Projeto de Análise de Dados com OEE ( Disponibilidade, Performance e Qualidade ).
 Fiz a escolha desse tema no projeto pois está diretamente relacionado com meu trabalho atual.
-O OEE está dividido em três partes ( que estão ali em cima ), e cada AC representará uma dessas partes
-( A funcionalidade da AC4 ainda estou escolhendo )
+O OEE está dividido em três partes ( que estão ali em cima ), e cada AC representará uma dessas partes,
+com a AC4/Prova sendo uma análise de tendência e previsão ( período pós a data dos dados )
