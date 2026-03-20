@@ -13,5 +13,6 @@ Ferramentas utilizadas:
 - Trello
 - GitHub
 
-- Link do Trello: https://trello.com/b/vvkhuiOc/projeto-power-bi-oee
-- Link Fonte dos dados: https://zenodo.org/records/18146866
+ Link do Trello: https://trello.com/b/vvkhuiOc/projeto-power-bi-oee
+ Link do Video: https://youtu.be/1h8kA9WvJ4g
+ Link Fonte dos dados: https://zenodo.org/records/18146866
