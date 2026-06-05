@@ -6,7 +6,7 @@ Projeto de análise de OEE utilizando Power BI.
 AC1 - Disponibilidade.
 AC2 - Performance.
 AC3 - Qualidade.
-AC4 - Tendência e Previsão.
+AC4 - Comparação e Conversão.
 
 Ferramentas utilizadas:
 - Power BI
